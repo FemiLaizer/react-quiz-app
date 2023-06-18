@@ -1,0 +1,12 @@
+.Question {
+    text-align: left;
+    padding: 5px 20px;
+
+    border: 1px solid #aaa7a7;
+    border-radius: 0.4rem;
+}
+
+.Question .quest{
+    font-size: 18px;
+    font-weight: 600;
+}
